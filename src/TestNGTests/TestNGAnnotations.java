@@ -19,4 +19,8 @@ public class TestNGAnnotations {
   public void f4() {
 	  System.out.println("Swcond ");
   }
+  @Test
+  public void f5() {
+	  System.out.println("Swcond ");
+  }
 }
