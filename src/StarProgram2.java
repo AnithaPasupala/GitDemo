@@ -6,6 +6,7 @@ public class StarProgram2 {
 		// TODO Auto-generated method stub
 		
 		Scanner sc=new Scanner(System.in);
+		System.out.println("3289571");
 		int n=4;int r=n+n-1;
 		for(int i=0;i<n;i++) {
 			for(int j=n-i;j>0;j--) {
